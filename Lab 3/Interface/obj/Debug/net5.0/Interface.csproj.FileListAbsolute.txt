@@ -1,0 +1,16 @@
+/home/sagar/Desktop/ncc/Interface/bin/Debug/net5.0/Interface
+/home/sagar/Desktop/ncc/Interface/bin/Debug/net5.0/Interface.deps.json
+/home/sagar/Desktop/ncc/Interface/bin/Debug/net5.0/Interface.runtimeconfig.json
+/home/sagar/Desktop/ncc/Interface/bin/Debug/net5.0/Interface.runtimeconfig.dev.json
+/home/sagar/Desktop/ncc/Interface/bin/Debug/net5.0/Interface.dll
+/home/sagar/Desktop/ncc/Interface/bin/Debug/net5.0/ref/Interface.dll
+/home/sagar/Desktop/ncc/Interface/bin/Debug/net5.0/Interface.pdb
+/home/sagar/Desktop/ncc/Interface/obj/Debug/net5.0/Interface.csprojAssemblyReference.cache
+/home/sagar/Desktop/ncc/Interface/obj/Debug/net5.0/Interface.GeneratedMSBuildEditorConfig.editorconfig
+/home/sagar/Desktop/ncc/Interface/obj/Debug/net5.0/Interface.AssemblyInfoInputs.cache
+/home/sagar/Desktop/ncc/Interface/obj/Debug/net5.0/Interface.AssemblyInfo.cs
+/home/sagar/Desktop/ncc/Interface/obj/Debug/net5.0/Interface.csproj.CoreCompileInputs.cache
+/home/sagar/Desktop/ncc/Interface/obj/Debug/net5.0/Interface.dll
+/home/sagar/Desktop/ncc/Interface/obj/Debug/net5.0/ref/Interface.dll
+/home/sagar/Desktop/ncc/Interface/obj/Debug/net5.0/Interface.pdb
+/home/sagar/Desktop/ncc/Interface/obj/Debug/net5.0/Interface.genruntimeconfig.cache

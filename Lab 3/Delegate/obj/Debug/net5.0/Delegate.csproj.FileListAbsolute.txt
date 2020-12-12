@@ -1,0 +1,16 @@
+/home/sagar/Desktop/Delegate/bin/Debug/net5.0/Delegate
+/home/sagar/Desktop/Delegate/bin/Debug/net5.0/Delegate.deps.json
+/home/sagar/Desktop/Delegate/bin/Debug/net5.0/Delegate.runtimeconfig.json
+/home/sagar/Desktop/Delegate/bin/Debug/net5.0/Delegate.runtimeconfig.dev.json
+/home/sagar/Desktop/Delegate/bin/Debug/net5.0/Delegate.dll
+/home/sagar/Desktop/Delegate/bin/Debug/net5.0/ref/Delegate.dll
+/home/sagar/Desktop/Delegate/bin/Debug/net5.0/Delegate.pdb
+/home/sagar/Desktop/Delegate/obj/Debug/net5.0/Delegate.csprojAssemblyReference.cache
+/home/sagar/Desktop/Delegate/obj/Debug/net5.0/Delegate.GeneratedMSBuildEditorConfig.editorconfig
+/home/sagar/Desktop/Delegate/obj/Debug/net5.0/Delegate.AssemblyInfoInputs.cache
+/home/sagar/Desktop/Delegate/obj/Debug/net5.0/Delegate.AssemblyInfo.cs
+/home/sagar/Desktop/Delegate/obj/Debug/net5.0/Delegate.csproj.CoreCompileInputs.cache
+/home/sagar/Desktop/Delegate/obj/Debug/net5.0/Delegate.dll
+/home/sagar/Desktop/Delegate/obj/Debug/net5.0/ref/Delegate.dll
+/home/sagar/Desktop/Delegate/obj/Debug/net5.0/Delegate.pdb
+/home/sagar/Desktop/Delegate/obj/Debug/net5.0/Delegate.genruntimeconfig.cache
