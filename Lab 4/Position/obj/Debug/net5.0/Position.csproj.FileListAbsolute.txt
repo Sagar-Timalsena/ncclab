@@ -1,0 +1,16 @@
+C:\Users\SAGAR\Desktop\ncclab\Lab 4\Position\bin\Debug\net5.0\Position.exe
+C:\Users\SAGAR\Desktop\ncclab\Lab 4\Position\bin\Debug\net5.0\Position.deps.json
+C:\Users\SAGAR\Desktop\ncclab\Lab 4\Position\bin\Debug\net5.0\Position.runtimeconfig.json
+C:\Users\SAGAR\Desktop\ncclab\Lab 4\Position\bin\Debug\net5.0\Position.runtimeconfig.dev.json
+C:\Users\SAGAR\Desktop\ncclab\Lab 4\Position\bin\Debug\net5.0\Position.dll
+C:\Users\SAGAR\Desktop\ncclab\Lab 4\Position\bin\Debug\net5.0\ref\Position.dll
+C:\Users\SAGAR\Desktop\ncclab\Lab 4\Position\bin\Debug\net5.0\Position.pdb
+C:\Users\SAGAR\Desktop\ncclab\Lab 4\Position\obj\Debug\net5.0\Position.csprojAssemblyReference.cache
+C:\Users\SAGAR\Desktop\ncclab\Lab 4\Position\obj\Debug\net5.0\Position.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SAGAR\Desktop\ncclab\Lab 4\Position\obj\Debug\net5.0\Position.AssemblyInfoInputs.cache
+C:\Users\SAGAR\Desktop\ncclab\Lab 4\Position\obj\Debug\net5.0\Position.AssemblyInfo.cs
+C:\Users\SAGAR\Desktop\ncclab\Lab 4\Position\obj\Debug\net5.0\Position.csproj.CoreCompileInputs.cache
+C:\Users\SAGAR\Desktop\ncclab\Lab 4\Position\obj\Debug\net5.0\Position.dll
+C:\Users\SAGAR\Desktop\ncclab\Lab 4\Position\obj\Debug\net5.0\ref\Position.dll
+C:\Users\SAGAR\Desktop\ncclab\Lab 4\Position\obj\Debug\net5.0\Position.pdb
+C:\Users\SAGAR\Desktop\ncclab\Lab 4\Position\obj\Debug\net5.0\Position.genruntimeconfig.cache

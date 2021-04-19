@@ -1,0 +1,16 @@
+C:\Users\SAGAR\Desktop\ncclab\Lab 4\NewString\obj\Debug\net5.0\NewString.csprojAssemblyReference.cache
+C:\Users\SAGAR\Desktop\ncclab\Lab 4\NewString\obj\Debug\net5.0\NewString.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SAGAR\Desktop\ncclab\Lab 4\NewString\obj\Debug\net5.0\NewString.AssemblyInfoInputs.cache
+C:\Users\SAGAR\Desktop\ncclab\Lab 4\NewString\obj\Debug\net5.0\NewString.AssemblyInfo.cs
+C:\Users\SAGAR\Desktop\ncclab\Lab 4\NewString\obj\Debug\net5.0\NewString.csproj.CoreCompileInputs.cache
+C:\Users\SAGAR\Desktop\ncclab\Lab 4\NewString\bin\Debug\net5.0\NewString.exe
+C:\Users\SAGAR\Desktop\ncclab\Lab 4\NewString\bin\Debug\net5.0\NewString.deps.json
+C:\Users\SAGAR\Desktop\ncclab\Lab 4\NewString\bin\Debug\net5.0\NewString.runtimeconfig.json
+C:\Users\SAGAR\Desktop\ncclab\Lab 4\NewString\bin\Debug\net5.0\NewString.runtimeconfig.dev.json
+C:\Users\SAGAR\Desktop\ncclab\Lab 4\NewString\bin\Debug\net5.0\NewString.dll
+C:\Users\SAGAR\Desktop\ncclab\Lab 4\NewString\bin\Debug\net5.0\ref\NewString.dll
+C:\Users\SAGAR\Desktop\ncclab\Lab 4\NewString\bin\Debug\net5.0\NewString.pdb
+C:\Users\SAGAR\Desktop\ncclab\Lab 4\NewString\obj\Debug\net5.0\NewString.dll
+C:\Users\SAGAR\Desktop\ncclab\Lab 4\NewString\obj\Debug\net5.0\ref\NewString.dll
+C:\Users\SAGAR\Desktop\ncclab\Lab 4\NewString\obj\Debug\net5.0\NewString.pdb
+C:\Users\SAGAR\Desktop\ncclab\Lab 4\NewString\obj\Debug\net5.0\NewString.genruntimeconfig.cache

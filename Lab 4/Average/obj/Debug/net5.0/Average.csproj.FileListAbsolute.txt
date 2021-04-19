@@ -1,0 +1,16 @@
+C:\Users\SAGAR\Desktop\ncclab\Lab 4\Average\bin\Debug\net5.0\Average.exe
+C:\Users\SAGAR\Desktop\ncclab\Lab 4\Average\bin\Debug\net5.0\Average.deps.json
+C:\Users\SAGAR\Desktop\ncclab\Lab 4\Average\bin\Debug\net5.0\Average.runtimeconfig.json
+C:\Users\SAGAR\Desktop\ncclab\Lab 4\Average\bin\Debug\net5.0\Average.runtimeconfig.dev.json
+C:\Users\SAGAR\Desktop\ncclab\Lab 4\Average\bin\Debug\net5.0\Average.dll
+C:\Users\SAGAR\Desktop\ncclab\Lab 4\Average\bin\Debug\net5.0\ref\Average.dll
+C:\Users\SAGAR\Desktop\ncclab\Lab 4\Average\bin\Debug\net5.0\Average.pdb
+C:\Users\SAGAR\Desktop\ncclab\Lab 4\Average\obj\Debug\net5.0\Average.csprojAssemblyReference.cache
+C:\Users\SAGAR\Desktop\ncclab\Lab 4\Average\obj\Debug\net5.0\Average.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SAGAR\Desktop\ncclab\Lab 4\Average\obj\Debug\net5.0\Average.AssemblyInfoInputs.cache
+C:\Users\SAGAR\Desktop\ncclab\Lab 4\Average\obj\Debug\net5.0\Average.AssemblyInfo.cs
+C:\Users\SAGAR\Desktop\ncclab\Lab 4\Average\obj\Debug\net5.0\Average.csproj.CoreCompileInputs.cache
+C:\Users\SAGAR\Desktop\ncclab\Lab 4\Average\obj\Debug\net5.0\Average.dll
+C:\Users\SAGAR\Desktop\ncclab\Lab 4\Average\obj\Debug\net5.0\ref\Average.dll
+C:\Users\SAGAR\Desktop\ncclab\Lab 4\Average\obj\Debug\net5.0\Average.pdb
+C:\Users\SAGAR\Desktop\ncclab\Lab 4\Average\obj\Debug\net5.0\Average.genruntimeconfig.cache
