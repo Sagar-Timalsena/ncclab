@@ -1,22 +1,19 @@
-  <h1> <strong> Net Centric Computing </strong> Lab Work with Lab Report </h1> 
- 
-Lab 1 : Creating [Git Account](https://github.com/Sagar1555/ncclab) and perform basic Git Commands(pull,push,branch,marge etc)
-
-<I> <h4> Basic Commands </h4> </I>
+<h1><strong>Net Centric Computing</strong> Lab Work with Lab Report </h1>
+<h2>Lab 1 : Creating Git Account and perform basic Git Commands(pull,push,branch,marge etc)</h2>
+<I>  Basic Commands </I><br>
 a. Initialize Git <br>
-	        git init    <br>
+git init    <br>
 b. Connect Git with remote site<br>
-  Git remote add origin https://github.com/Sagar1555/ncclab/
-  <br>
+Git remote add origin https://github.com/Sagar1555/ncclab/  <br>
 c. Config Git bash with GitHub<br>
-  git config --global user.name "Your name hear"<br>
-  git config --global user. Email your_email@example.com<br>
- 
- </br>
+git config --global user.name "Your name hear"<br>
+git config --global user. Email your_email@example.com<br>
+</br>
 
 ---
-Lab2: Basic concept of Object Oriented Programming in C#
 
+<h2>
+Lab2: Basic concept of Object Oriented Programming in C#</h2>
 <ol>
 	<li> Class And Object </li>
 	<li> inheritance </li>
@@ -27,21 +24,42 @@ functions</li>
 
 ---
 
-Lab3: Interface and Delegates concept in c#
+<h2>
+Lab3: Interface and Delegates concept in c#</h2>
 <ol>
 	<li> Multiple Inheritance with the use of the Interface </li>
 	<li>Delegate and Events </li>
 	
 </ol>
+
+----
+
+<h2>Lab4: Basic Concept of C# </h2>
+<ol>
+    <li> Average </li>
+    <li> CopyCat</li>
+    <li>LongestWord</li>
+    <li>SwapChar</li>
+</ol>
+
 ---
-Lab4: Basic Concept of C# 
+
+<h2>Lab 5 : Create a ASP.NET Core with 3 Pages with default routes for: <br></h2>
+<ul>
+	<li> Home Page (Write something)</li>
+	<li>About Page (a Paragraph about yourself)</li>
+	<li>Contact Page (your basic contact info)</li>
+</ul>
+
 ---
-Lab 5 : Create a ASP.NET Core with 3 Pages with default routes for <br>
-	a. Home Page (Write something) <br>
-	b. About Page (a Paragraph about yourself) <br>
-	c. Contact Page (your basic contact info)<br>
----
+
+<h2>
 Lab 6: Create a .NET Core project with CRUD operation using Code first approach on Students table containing (you may create console/ asp.net as per your choice)<br>
-	1. Name<br>
-	2. Email<br>
-	3. Address<br>
+</h2>
+	<ol>
+	    <li>Name</li>
+	    <li>Email</li>
+	    <li>Address</li>
+	</ol>
+
+----
