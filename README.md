@@ -17,6 +17,14 @@ c. Config Git bash with GitHub<br>
 ---
 Lab2: Basic concept of Object Oriented Programming in C#
 
+<ol>
+	<li> Class And Object </li>
+	<li> inheritance </li>
+	<li> overloading and overriding of constructor and 
+functions<li>
+</ol>
+<br>
+
 Lab3: Interface and Delegates concept in c#
 
 Lab4: Basic Concept of C# 
