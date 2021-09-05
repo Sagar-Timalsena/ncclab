@@ -21,9 +21,11 @@ Lab2: Basic concept of Object Oriented Programming in C#
 	<li> Class And Object </li>
 	<li> inheritance </li>
 	<li> overloading and overriding of constructor and 
-functions<li>
+functions</li>
 </ol>
 <br>
+
+---
 
 Lab3: Interface and Delegates concept in c#
 
