@@ -33,15 +33,15 @@ Lab3: Interface and Delegates concept in c#
 	<li>Delegate and Events </li>
 	
 </ol>
---
+---
 Lab4: Basic Concept of C# 
---
-Lab 5 : Create a ASP.NET Core with 3 Pages with default routes for 
-	a. Home Page (Write something)
-	b. About Page (a Paragraph about yourself)
-	c. Contact Page (your basic contact info)
---
-Lab 6: Create a .NET Core project with CRUD operation using Code first approach on Students table containing (you may create console/ asp.net as per your choice)
-	1. Name
-	2. Email
-	3. Address
+---
+Lab 5 : Create a ASP.NET Core with 3 Pages with default routes for <br>
+	a. Home Page (Write something) <br>
+	b. About Page (a Paragraph about yourself) <br>
+	c. Contact Page (your basic contact info)<br>
+---
+Lab 6: Create a .NET Core project with CRUD operation using Code first approach on Students table containing (you may create console/ asp.net as per your choice)<br>
+	1. Name<br>
+	2. Email<br>
+	3. Address<br>
