@@ -1,6 +1,19 @@
   <h1> <strong> Net Centric Computing </strong> Lab Work with Lab Report </h1> 
  
 Lab 1 : Creating [Git Account](https://github.com/Sagar1555/ncclab) and perform basic Git Commands(pull,push,branch,marge etc)
+
+<I> <h4> Basic Commands </h4> </I>
+a. Initialize Git <br>
+	        git init    <br>
+b. Connect Git with remote site<br>
+  Git remote add origin https://github.com/Sagar1555/ncclab/
+  <br>
+c. Config Git bash with GitHub<br>
+  git config --global user.name "Your name hear"<br>
+  git config --global user. Email your_email@example.com<br>
+ 
+ </br>
+
 ---
 Lab2: Basic concept of Object Oriented Programming in C#
 
