@@ -1,7 +1,7 @@
-  <h1> Net Centric Computing Lab Work with Lab Report </h1>
-  
-Lab 1 : Creating Git Account and perform basic Git Commands(pull,push,branch,marge etc)
-
+  <h1> <strong> Net Centric Computing </strong> Lab Work with Lab Report </h1> 
+ 
+Lab 1 : Creating [Git Account](https://github.com/Sagar1555/ncclab) and perform basic Git Commands(pull,push,branch,marge etc)
+---
 Lab2: Basic concept of Object Oriented Programming in C#
 
 Lab3: Interface and Delegates concept in c#
