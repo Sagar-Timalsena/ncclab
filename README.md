@@ -28,6 +28,11 @@ functions</li>
 ---
 
 Lab3: Interface and Delegates concept in c#
+<ol>
+	<li> Multiple Inheritance with the use of the Interface </li>
+	<li>Delegate and Events </li>
+	
+</ol>
 --
 Lab4: Basic Concept of C# 
 --
