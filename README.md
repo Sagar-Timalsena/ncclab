@@ -10,7 +10,6 @@ git config --global user.name "Your name hear"<br>
 git config --global user. Email your_email@example.com<br>
 </br>
 
----
 
 <h2>
 Lab2: Basic concept of Object Oriented Programming in C#</h2>
@@ -22,7 +21,7 @@ functions</li>
 </ol>
 <br>
 
----
+
 
 <h2>
 Lab3: Interface and Delegates concept in c#</h2>
@@ -32,8 +31,6 @@ Lab3: Interface and Delegates concept in c#</h2>
 	
 </ol>
 
-----
-
 <h2>Lab4: Basic Concept of C# </h2>
 <ol>
     <li> Average </li>
@@ -42,7 +39,6 @@ Lab3: Interface and Delegates concept in c#</h2>
     <li>SwapChar</li>
 </ol>
 
----
 
 <h2>Lab 5 : Create a ASP.NET Core with 3 Pages with default routes for: <br></h2>
 <ul>
@@ -50,8 +46,6 @@ Lab3: Interface and Delegates concept in c#</h2>
 	<li>About Page (a Paragraph about yourself)</li>
 	<li>Contact Page (your basic contact info)</li>
 </ul>
-
----
 
 <h2>
 Lab 6: Create a .NET Core project with CRUD operation using Code first approach on Students table containing (you may create console/ asp.net as per your choice)<br>
@@ -61,5 +55,3 @@ Lab 6: Create a .NET Core project with CRUD operation using Code first approach 
 	    <li>Email</li>
 	    <li>Address</li>
 	</ol>
-
-----
