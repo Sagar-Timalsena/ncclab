@@ -55,6 +55,7 @@ Lab 6: Create a .NET Core project with CRUD operation using Code first approach 
 	    <li>Email</li>
 	    <li>Address</li>
 	</ol>
+
 <div align="center">
 
 ### Show some ❤️ by starring some of the repositories!
