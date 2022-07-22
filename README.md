@@ -58,7 +58,6 @@ Lab 6: Create a .NET Core project with CRUD operation using Code first approach 
 
 <div align="center">
 
-### Show some ❤️ by starring some of the repositories!
 
 </div>
 
