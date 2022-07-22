@@ -4,7 +4,7 @@
 a. Initialize Git <br>
 git init    <br>
 b. Connect Git with remote site<br>
-Git remote add origin https://github.com/Sagar1555/ncclab/  <br>
+Git remote add origin https://github.com/Sagar-Timalsena/ncclab/  <br>
 c. Config Git bash with GitHub<br>
 git config --global user.name "Your name hear"<br>
 git config --global user. Email your_email@example.com<br>
