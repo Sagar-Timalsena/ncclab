@@ -67,6 +67,9 @@ Lab 6: Create a .NET Core project with CRUD operation using Code first approach 
 ===
 # Instructor Details
 
+<p align="center" width="10%">
+    <img width="100%" src="https://github.com/Sagar-Timalsena/ncclab/blob/master/image.jpg?raw=true&type=image"> 
+</p>
+
 Name and Email: [Chandan Gupta Bhagat](mailto:chandangbhagat@outlook.com)<br>
 Github: [chandangbhagat](https://github.com/chandan-g-bhagat)<br>
-![Instructor](https://github.com/Sagar-Timalsena/ncclab/blob/master/image.jpg?raw=true)
